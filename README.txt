@@ -1,3 +1,6 @@
+
+## Electron Web Scraper
+
 For the web results I was able to use a fetch request to get the full page
 of results from Google. Once I had that HTML, I also found how to call the
 next and previous pages which is why I added in that simple pagination. This
